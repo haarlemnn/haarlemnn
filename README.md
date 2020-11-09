@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi, I am Haarlem, welcome to my GitHub :satisfied:
 
-<!--
-**haarlemnn/haarlemnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full stack developer in **Taubaté, Brazil at UnixTech**.
 
-Here are some ideas to get you started:
+Passionate about technology, I'm always looking for new knowledge and improving my skills, currently working on Flutter and Nodejs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies I like / work
+
+- **Languages:** _Java_, _Dart_, _JavaScript / TypeScript_, _C#_
+- **Frameworks:** _Flutter_, _ReactJS_, _React-Native_, _Express_
+- **Databases:** _PostgreSQL_, _MongoDB_
+
+### You can see me here
+
