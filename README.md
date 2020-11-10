@@ -12,4 +12,4 @@ Passionate about technology, I'm always looking for new knowledge and improving 
 
 ### You can see me here
 
-[![LinkedIn Badge](https://img.shields.io/static/v1?label=LinkedIn&message=Haarlem%20Notoroberto&color=grey&style=for-the-badge&logo=linkedin&labelColor=0077B5)](https://www.linkedin.com/in/haarlem-notoroberto)
+[![LinkedIn Badge](https://img.shields.io/badge/-Haarlem%20Notoroberto-0077B5?style=for-the-badge&logo=linkedin&labelColor=0077B5)](https://www.linkedin.com/in/haarlem-notoroberto)
