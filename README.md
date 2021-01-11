@@ -1,6 +1,6 @@
 ### Hi, I am Haarlem, welcome to my GitHub :satisfied:
 
-Full stack developer in **Taubaté, Brazil at UnixTech**.
+Full Stack Developer at **QikServe**.
 
 Passionate about technology, I'm always looking for new knowledge and improving my skills, currently working on Flutter and Nodejs.
 
