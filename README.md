@@ -1,6 +1,6 @@
 ### Hi, I am Haarlem, welcome to my GitHub :satisfied:
 
-System reFull Stack Developer at **QikServe**.
+System Analyst | Full Stack Developer
 
 ### Technologies I like / work
 
