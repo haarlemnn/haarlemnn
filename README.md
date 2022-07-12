@@ -1,12 +1,11 @@
 ### Hi, I am Haarlem, welcome to my GitHub :satisfied:
 
-Full Stack Developer at **QikServe**.
-I'm always looking for new knowledge and improving my skills.
+System reFull Stack Developer at **QikServe**.
 
 ### Technologies I like / work
 
-- **Languages:** _Java_, _Dart_, _JavaScript / TypeScript_, _C#_
-- **Frameworks:** _Flutter_, _ReactJS_, _React-Native_, _Express_, _Spring_
+- **Languages:** _Java_, _JavaScript / TypeScript_
+- **Frameworks:** _ReactJS_, _Express_, _Spring_
 - **Databases:** _PostgreSQL_, _MySQL_, _MongoDB_
 
 ### You can see me here
