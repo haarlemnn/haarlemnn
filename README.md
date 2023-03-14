@@ -1,12 +1,14 @@
 ### Hi, I am Haarlem, welcome to my GitHub :satisfied:
 
-System Analyst | Full Stack Developer
+System Analyst | Developer
 
+<!---
 ### Technologies I like / work
 
 - **Languages:** _Java_, _JavaScript / TypeScript_
 - **Frameworks:** _ReactJS_, _Express_, _Spring_
 - **Databases:** _PostgreSQL_, _MySQL_, _MongoDB_
+--->
 
 ### You can see me here
 
