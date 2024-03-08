@@ -1,4 +1,4 @@
-### Hi, I am Haarlem, welcome to my GitHub :satisfied:
+### Hi, I am Haarlem!
 
 System Analyst | Developer
 
